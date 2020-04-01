@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Camera.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:Camera.h">
+   </FileRef>
+   <FileRef
+      location = "group:glew32.dll">
+   </FileRef>
+   <FileRef
+      location = "group:Light.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:Light.h">
+   </FileRef>
+   <FileRef
+      location = "group:main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:Mesh.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:Mesh.h">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGLCourseApp.vcxproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGLCourseApp.vcxproj.filters">
+   </FileRef>
+   <FileRef
+      location = "group:Shader.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:Shader.h">
+   </FileRef>
+   <FileRef
+      location = "group:Shaders">
+   </FileRef>
+   <FileRef
+      location = "group:stb_image.h">
+   </FileRef>
+   <FileRef
+      location = "group:Texture.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:Texture.h">
+   </FileRef>
+   <FileRef
+      location = "group:Textures">
+   </FileRef>
+   <FileRef
+      location = "group:Window.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:Window.h">
+   </FileRef>
+   <FileRef
+      location = "self:OpenGL_CourseApp25.xcodeproj">
+   </FileRef>
+</Workspace>
